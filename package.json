@@ -1,0 +1,19 @@
+{
+  "name": "tailchat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build:css": "tailwind build src/style.css -o dist/style.css"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "autoprefixer": "^10.2.1",
+    "tailwindcss": "^2.0.2"
+  },
+  "devDependencies": {
+    "autoprefixer":"^8.4.1"
+  }
+}
